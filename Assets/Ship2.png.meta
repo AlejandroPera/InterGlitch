@@ -1,0 +1,2345 @@
+fileFormatVersion: 2
+guid: f202ddc6187862647a685db009d007d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9198504000052830509
+    second: Ship2_0
+  - first:
+      213: -179229753681194085
+    second: Ship2_0
+  - first:
+      213: 8879747714621758752
+    second: Ship2_1
+  - first:
+      213: -5087072899249040347
+    second: Ship2_2
+  - first:
+      213: 526976603672428954
+    second: Ship2_3
+  - first:
+      213: 2538608131534885324
+    second: Ship2_4
+  - first:
+      213: 7878335896642768814
+    second: Ship2_5
+  - first:
+      213: 262232386668270588
+    second: Ship2_6
+  - first:
+      213: -1357680625349608878
+    second: Ship2_7
+  - first:
+      213: -7138895479733248213
+    second: Ship2_8
+  - first:
+      213: -781436460177721600
+    second: Ship2_9
+  - first:
+      213: -5588353171370368879
+    second: Ship2_10
+  - first:
+      213: 6242804782807481065
+    second: Ship2_11
+  - first:
+      213: -7639856926532084911
+    second: Ship2_12
+  - first:
+      213: 4642188676244724675
+    second: Ship2_13
+  - first:
+      213: 8310590489416242752
+    second: Ship2_14
+  - first:
+      213: -2162236244297919200
+    second: Ship2_15
+  - first:
+      213: -9177296334462202891
+    second: Ship2_16
+  - first:
+      213: 2518203544117569370
+    second: Ship2_17
+  - first:
+      213: 1828059615776241108
+    second: Ship2_18
+  - first:
+      213: 2056289842962838766
+    second: Ship2_19
+  - first:
+      213: -5738897316890796752
+    second: Ship2_20
+  - first:
+      213: -5226192114650060924
+    second: Ship2_21
+  - first:
+      213: -5315224058569059715
+    second: Ship2_22
+  - first:
+      213: -5424015647451800371
+    second: Ship2_23
+  - first:
+      213: 6663358759493541906
+    second: Ship2_24
+  - first:
+      213: 4456047661646651744
+    second: Ship2_25
+  - first:
+      213: 4171233320367283727
+    second: Ship2_26
+  - first:
+      213: -5005091353128218339
+    second: Ship2_27
+  - first:
+      213: -6900528740984345181
+    second: Ship2_28
+  - first:
+      213: 5515644626418408681
+    second: Ship2_29
+  - first:
+      213: -5980552911141052942
+    second: Ship2_30
+  - first:
+      213: -2051808246154286356
+    second: Ship2_31
+  - first:
+      213: -69238402925715719
+    second: Ship2_32
+  - first:
+      213: 3011085311378108692
+    second: Ship2_33
+  - first:
+      213: 6418086683334406044
+    second: Ship2_34
+  - first:
+      213: -351196187905142999
+    second: Ship2_35
+  - first:
+      213: 5223514967055126626
+    second: Ship2_36
+  - first:
+      213: -6102015467990482618
+    second: Ship2_37
+  - first:
+      213: 5105880147101431565
+    second: Ship2_38
+  - first:
+      213: -6353156993306457215
+    second: Ship2_39
+  - first:
+      213: 9189866353936156624
+    second: Ship2_40
+  - first:
+      213: 5963425072735102688
+    second: Ship2_41
+  - first:
+      213: -7970216444586437411
+    second: Ship2_42
+  - first:
+      213: 2697443866054481607
+    second: Ship2_43
+  - first:
+      213: -7132720153971315206
+    second: Ship2_44
+  - first:
+      213: -5696495143700008735
+    second: Ship2_45
+  - first:
+      213: 1691931747250909767
+    second: Ship2_46
+  - first:
+      213: 1311409961021735129
+    second: Ship2_47
+  - first:
+      213: 4254340625218145599
+    second: Ship2_48
+  - first:
+      213: 5023434257834489284
+    second: Ship2_49
+  - first:
+      213: -3614618933857138493
+    second: Ship2_50
+  - first:
+      213: 7851956641749087157
+    second: Ship2_51
+  - first:
+      213: -2007986884000395630
+    second: Ship2_52
+  - first:
+      213: 3340115443386425242
+    second: Ship2_53
+  - first:
+      213: -8485364050055280504
+    second: Ship2_54
+  - first:
+      213: 8740267414157574532
+    second: Ship2_55
+  - first:
+      213: -7117668929306814284
+    second: Ship2_56
+  - first:
+      213: -2215383598763061857
+    second: Ship2_57
+  - first:
+      213: 1316917154602753186
+    second: Ship2_58
+  - first:
+      213: -1233241441851369670
+    second: Ship2_59
+  - first:
+      213: -8964020270935072938
+    second: Ship2_60
+  - first:
+      213: -4265567704036231881
+    second: Ship2_61
+  - first:
+      213: 6555033125425067816
+    second: Ship2_62
+  - first:
+      213: -4979101339426225261
+    second: Ship2_63
+  - first:
+      213: 4976358654998470270
+    second: Ship2_64
+  - first:
+      213: 2635615003080021184
+    second: Ship2_65
+  - first:
+      213: 5139548685183996751
+    second: Ship2_66
+  - first:
+      213: 6132686285482002846
+    second: Ship2_67
+  - first:
+      213: -1067388678630434484
+    second: Ship2_68
+  - first:
+      213: 2000072381364412940
+    second: Ship2_69
+  - first:
+      213: 8121588324818844079
+    second: Ship2_70
+  - first:
+      213: 1908806690121237940
+    second: Ship2_71
+  - first:
+      213: -6319840234724839178
+    second: Ship2_72
+  - first:
+      213: 7813387698358593989
+    second: Ship2_73
+  - first:
+      213: 4968520110239581843
+    second: Ship2_74
+  - first:
+      213: -8175549932126343394
+    second: Ship2_75
+  - first:
+      213: -4562691598700973447
+    second: Ship2_76
+  - first:
+      213: 5298047907040668259
+    second: Ship2_77
+  - first:
+      213: 5836919702410777011
+    second: Ship2_78
+  - first:
+      213: 8515554000453485519
+    second: Ship2_79
+  - first:
+      213: -614809239961816810
+    second: Ship2_80
+  - first:
+      213: 8464803666228931215
+    second: Ship2_81
+  - first:
+      213: -6902305019450878765
+    second: Ship2_82
+  - first:
+      213: 5481864281813617039
+    second: Ship2_83
+  - first:
+      213: -5346998759399661198
+    second: Ship2_84
+  - first:
+      213: 3405503317218694667
+    second: Ship2_85
+  - first:
+      213: -7240811764215759469
+    second: Ship2_86
+  - first:
+      213: -1591741201917699978
+    second: Ship2_87
+  - first:
+      213: 6204686329375582216
+    second: Ship2_88
+  - first:
+      213: -7985385071855935347
+    second: Ship2_89
+  - first:
+      213: -524791080551194782
+    second: Ship2_90
+  - first:
+      213: 3800649364323552587
+    second: Ship2_91
+  - first:
+      213: 9015603534974132727
+    second: Ship2_92
+  - first:
+      213: 2130526436644783439
+    second: Ship2_93
+  - first:
+      213: -3541818806748261503
+    second: Ship2_94
+  - first:
+      213: -7720239147592235988
+    second: Ship2_95
+  - first:
+      213: 6855051572770534989
+    second: Ship2_96
+  - first:
+      213: 1102871190233355460
+    second: Ship2_97
+  - first:
+      213: -6252221338463031403
+    second: Ship2_98
+  - first:
+      213: -7149561846158189306
+    second: Ship2_99
+  - first:
+      213: 1429015127245949780
+    second: Ship2_100
+  - first:
+      213: -4392311662502406011
+    second: Ship2_101
+  - first:
+      213: 2605374747759008026
+    second: Ship2_102
+  - first:
+      213: -3274864141935928449
+    second: Ship2_103
+  - first:
+      213: 5859572985634617616
+    second: Ship2_104
+  - first:
+      213: -8021516506008302760
+    second: Ship2_105
+  - first:
+      213: 4925114822049927698
+    second: Ship2_106
+  - first:
+      213: -8375725120150035682
+    second: Ship2_107
+  - first:
+      213: -8185509553831077634
+    second: Ship2_108
+  - first:
+      213: -2273468754061811167
+    second: Ship2_109
+  - first:
+      213: 4852275115579812944
+    second: Ship2_110
+  - first:
+      213: 4816909676793891852
+    second: Ship2_111
+  - first:
+      213: 4320485055417763458
+    second: Ship2_112
+  - first:
+      213: 3577867591942234366
+    second: Ship2_113
+  - first:
+      213: -594963992656182960
+    second: Ship2_114
+  - first:
+      213: -15662969037859104
+    second: Ship2_115
+  - first:
+      213: 5708745698891375736
+    second: Ship2_116
+  - first:
+      213: -1307536831704118061
+    second: Ship2_117
+  - first:
+      213: 1226345095318734937
+    second: Ship2_118
+  - first:
+      213: 6106010577778459413
+    second: Ship2_119
+  - first:
+      213: -6984171087323652311
+    second: Ship2_120
+  - first:
+      213: 4291288935705962675
+    second: Ship2_121
+  - first:
+      213: -7537360967548527216
+    second: Ship2_122
+  - first:
+      213: -7623832776033691124
+    second: Ship2_123
+  - first:
+      213: 5522241780300308694
+    second: Ship2_124
+  - first:
+      213: 2465154105728761828
+    second: Ship2_125
+  - first:
+      213: -9087873272419207973
+    second: Ship2_126
+  - first:
+      213: -4805535097728335932
+    second: Ship2_127
+  - first:
+      213: 3190821526674588725
+    second: Ship2_128
+  - first:
+      213: 1155144313458128562
+    second: Ship2_129
+  - first:
+      213: -7760507616534866720
+    second: Ship2_130
+  - first:
+      213: 683361323002271645
+    second: Ship2_131
+  - first:
+      213: -1468161600727912776
+    second: Ship2_132
+  - first:
+      213: 7883506247973809786
+    second: Ship2_133
+  - first:
+      213: -5306061535212600802
+    second: Ship2_134
+  - first:
+      213: -8127918798401446387
+    second: Ship2_135
+  - first:
+      213: 8930690376244964150
+    second: Ship2_136
+  - first:
+      213: -1661909965479542725
+    second: Ship2_137
+  - first:
+      213: 3019080075446233212
+    second: Ship2_138
+  - first:
+      213: -7084884190547587121
+    second: Ship2_139
+  - first:
+      213: -5763240484521780495
+    second: Ship2_140
+  - first:
+      213: 5948026717960793772
+    second: Ship2_141
+  - first:
+      213: 1509913007941046051
+    second: Ship2_142
+  - first:
+      213: 2497960565671576837
+    second: Ship2_143
+  - first:
+      213: -7752861246223138102
+    second: Ship2_144
+  - first:
+      213: -8959922376381913691
+    second: Ship2_145
+  - first:
+      213: 7361863224325942582
+    second: Ship2_146
+  - first:
+      213: -893335337832434959
+    second: Ship2_147
+  - first:
+      213: -8606551505841206756
+    second: Ship2_148
+  - first:
+      213: -387636029236903831
+    second: Ship2_149
+  - first:
+      213: -9109229735329705739
+    second: Ship2_150
+  - first:
+      213: -3666675902073764290
+    second: Ship2_151
+  - first:
+      213: 2808832295204216534
+    second: Ship2_152
+  - first:
+      213: -5387565305548429078
+    second: Ship2_153
+  - first:
+      213: 7657633942478971464
+    second: Ship2_154
+  - first:
+      213: 9028704315519916015
+    second: Ship2_155
+  - first:
+      213: 6375983636208683196
+    second: Ship2_156
+  - first:
+      213: 5597722735162399415
+    second: Ship2_157
+  - first:
+      213: -9099016086252832157
+    second: Ship2_158
+  - first:
+      213: 4816089477889116460
+    second: Ship2_159
+  - first:
+      213: -1429414517029864480
+    second: Ship2_160
+  - first:
+      213: -7317312408860686955
+    second: Ship2_161
+  - first:
+      213: -173210717478812987
+    second: Ship2_162
+  - first:
+      213: 4183226878724338719
+    second: Ship2_163
+  - first:
+      213: 9037403318264429959
+    second: Ship2_164
+  - first:
+      213: -3427559387605761649
+    second: Ship2_165
+  - first:
+      213: 2109042979735280115
+    second: Ship2_166
+  - first:
+      213: 2754599708258789534
+    second: Ship2_167
+  - first:
+      213: -4947282427131503711
+    second: Ship2_168
+  - first:
+      213: -3672640238292070811
+    second: Ship2_169
+  - first:
+      213: 2151652040236328135
+    second: Ship2_170
+  - first:
+      213: 8473311648524538026
+    second: Ship2_171
+  - first:
+      213: 8277076281338900160
+    second: Ship2_172
+  - first:
+      213: -1643762936557554354
+    second: Ship2_173
+  - first:
+      213: 1566750043087029409
+    second: Ship2_174
+  - first:
+      213: -125695022606661147
+    second: Ship2_175
+  - first:
+      213: 4292740311410162693
+    second: Ship2_176
+  - first:
+      213: 7226064560239404994
+    second: Ship2_177
+  - first:
+      213: -2591818160198150195
+    second: Ship2_178
+  - first:
+      213: 5581855758237367565
+    second: Ship2_179
+  - first:
+      213: -6167935278847944008
+    second: Ship2_180
+  - first:
+      213: 7176516515171362452
+    second: Ship2_181
+  - first:
+      213: 7402519759599272677
+    second: Ship2_182
+  - first:
+      213: -7393390961801295263
+    second: Ship2_183
+  - first:
+      213: -415844784063686595
+    second: Ship2_184
+  - first:
+      213: 2149762029751141029
+    second: Ship2_185
+  - first:
+      213: -4425585682913738953
+    second: Ship2_186
+  - first:
+      213: 3584403813508610937
+    second: Ship2_187
+  - first:
+      213: -2588549366126873822
+    second: Ship2_188
+  - first:
+      213: -7670748838205766301
+    second: Ship2_189
+  - first:
+      213: 7660228657347873361
+    second: Ship2_190
+  - first:
+      213: 747900277766361924
+    second: Ship2_191
+  - first:
+      213: -5057071353120534054
+    second: Ship2_192
+  - first:
+      213: 4715966757427122576
+    second: Ship2_193
+  - first:
+      213: 7565523041613699427
+    second: Ship2_194
+  - first:
+      213: 3710095655351881525
+    second: Ship2_195
+  - first:
+      213: 2375127511318682127
+    second: Ship2_196
+  - first:
+      213: 7604496670212562074
+    second: Ship2_197
+  - first:
+      213: -4802691772889970980
+    second: Ship2_198
+  - first:
+      213: -2209335993920072631
+    second: Ship2_199
+  - first:
+      213: -5386654382611566598
+    second: Ship2_200
+  - first:
+      213: 2456725899184161741
+    second: Ship2_201
+  - first:
+      213: 4496831958379321362
+    second: Ship2_202
+  - first:
+      213: 8329600009452835996
+    second: Ship2_203
+  - first:
+      213: -4189105921528259512
+    second: Ship2_204
+  - first:
+      213: 4830862264781804243
+    second: Ship2_205
+  - first:
+      213: -3629615603495778999
+    second: Ship2_206
+  - first:
+      213: 8290144689378400047
+    second: Ship2_207
+  - first:
+      213: 3092872020976248965
+    second: Ship2_208
+  - first:
+      213: 6091667296502990723
+    second: Ship2_209
+  - first:
+      213: 2525793072010231629
+    second: Ship2_210
+  - first:
+      213: 7339823390301462237
+    second: Ship2_211
+  - first:
+      213: 2606111862438388316
+    second: Ship2_212
+  - first:
+      213: -8393325150610316924
+    second: Ship2_213
+  - first:
+      213: 3428320906177380527
+    second: Ship2_214
+  - first:
+      213: -3637403607025856467
+    second: Ship2_215
+  - first:
+      213: -4899077423862963189
+    second: Ship2_216
+  - first:
+      213: 763371468061427356
+    second: Ship2_217
+  - first:
+      213: -6160657425807934658
+    second: Ship2_218
+  - first:
+      213: -1024114755371404621
+    second: Ship2_219
+  - first:
+      213: 2959849264087630978
+    second: Ship2_220
+  - first:
+      213: -7814853111376856525
+    second: Ship2_221
+  - first:
+      213: -6896272055116480416
+    second: Ship2_222
+  - first:
+      213: -4207415745405712352
+    second: Ship2_223
+  - first:
+      213: 1589038687185100438
+    second: Ship2_224
+  - first:
+      213: 180013762412161123
+    second: Ship2_225
+  - first:
+      213: -7688908061906876040
+    second: Ship2_226
+  - first:
+      213: -8278225019687960643
+    second: Ship2_227
+  - first:
+      213: 8776866607321877079
+    second: Ship2_228
+  - first:
+      213: -8763091504954597332
+    second: Ship2_229
+  - first:
+      213: -8049282226540250423
+    second: Ship2_230
+  - first:
+      213: 5226706045760880648
+    second: Ship2_231
+  - first:
+      213: -5176666225221177103
+    second: Ship2_232
+  - first:
+      213: 3209562122168421086
+    second: Ship2_233
+  - first:
+      213: -7075587774152191846
+    second: Ship2_234
+  - first:
+      213: 7663374820741264964
+    second: Ship2_235
+  - first:
+      213: -8003738275951457838
+    second: Ship2_236
+  - first:
+      213: 3511382044933110872
+    second: Ship2_237
+  - first:
+      213: 5393255277985259525
+    second: Ship2_238
+  - first:
+      213: 8031072204174133163
+    second: Ship2_239
+  - first:
+      213: 3341663039708982324
+    second: Ship2_240
+  - first:
+      213: -7722275017093529416
+    second: Ship2_241
+  - first:
+      213: 4483270457793941880
+    second: Ship2_242
+  - first:
+      213: 7060291386314457403
+    second: Ship2_243
+  - first:
+      213: -6538048213498595802
+    second: Ship2_244
+  - first:
+      213: 7444968846982638246
+    second: Ship2_245
+  - first:
+      213: -6294233135455869838
+    second: Ship2_246
+  - first:
+      213: -5556057727667571309
+    second: Ship2_247
+  - first:
+      213: 1575662233877496765
+    second: Ship2_248
+  - first:
+      213: -925079565811053161
+    second: Ship2_249
+  - first:
+      213: 1703097901089936821
+    second: Ship2_250
+  - first:
+      213: -7514864044763491323
+    second: Ship2_251
+  - first:
+      213: 226076513724943809
+    second: Ship2_252
+  - first:
+      213: -503642142968490096
+    second: Ship2_253
+  - first:
+      213: 5942483029919269178
+    second: Ship2_254
+  - first:
+      213: 9038383248547200527
+    second: Ship2_255
+  - first:
+      213: -9161441089584090532
+    second: Ship2_256
+  - first:
+      213: -5737582898287269680
+    second: Ship2_257
+  - first:
+      213: -1262278458875395749
+    second: Ship2_258
+  - first:
+      213: 1517971965908360982
+    second: Ship2_259
+  - first:
+      213: 2680048499753239507
+    second: Ship2_260
+  - first:
+      213: -3639342403073527993
+    second: Ship2_261
+  - first:
+      213: 2489599755514178895
+    second: Ship2_262
+  - first:
+      213: -1521435676884404254
+    second: Ship2_263
+  - first:
+      213: -172914697913967267
+    second: Ship2_264
+  - first:
+      213: 1944593815168847612
+    second: Ship2_265
+  - first:
+      213: -1024339585532880663
+    second: Ship2_266
+  - first:
+      213: -5979559823029202185
+    second: Ship2_267
+  - first:
+      213: -3302803302324946359
+    second: Ship2_268
+  - first:
+      213: 1231762387437055483
+    second: Ship2_269
+  - first:
+      213: -1074527943359929170
+    second: Ship2_270
+  - first:
+      213: -4000617774240562515
+    second: Ship2_271
+  - first:
+      213: -3938792382525006542
+    second: Ship2_272
+  - first:
+      213: -299657279316662746
+    second: Ship2_273
+  - first:
+      213: -4042512930857248108
+    second: Ship2_274
+  - first:
+      213: -2907228854184442154
+    second: Ship2_275
+  - first:
+      213: -5048772664886142845
+    second: Ship2_276
+  - first:
+      213: -4512299883866589713
+    second: Ship2_277
+  - first:
+      213: -2513598001576666975
+    second: Ship2_278
+  - first:
+      213: 2345928546601239655
+    second: Ship2_279
+  - first:
+      213: -2722267664545978450
+    second: Ship2_280
+  - first:
+      213: 685140911526036924
+    second: Ship2_281
+  - first:
+      213: 86434527501707122
+    second: Ship2_282
+  - first:
+      213: -2702931748269204628
+    second: Ship2_283
+  - first:
+      213: 3665277880171336501
+    second: Ship2_284
+  - first:
+      213: -9084697557258308461
+    second: Ship2_285
+  - first:
+      213: -5681652033677187799
+    second: Ship2_286
+  - first:
+      213: 2972723624409265730
+    second: Ship2_287
+  - first:
+      213: 4580110056491183957
+    second: Ship2_288
+  - first:
+      213: 290776113369441606
+    second: Ship2_289
+  - first:
+      213: 3123410798970927977
+    second: Ship2_290
+  - first:
+      213: -1797951746398671421
+    second: Ship2_291
+  - first:
+      213: 6606353548924117987
+    second: Ship2_292
+  - first:
+      213: -3371550826567819124
+    second: Ship2_293
+  - first:
+      213: -3361129550766744919
+    second: Ship2_294
+  - first:
+      213: -4662528741578340146
+    second: Ship2_295
+  - first:
+      213: -7860270715462201545
+    second: Ship2_296
+  - first:
+      213: 6176228355933290851
+    second: Ship2_297
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ship2_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21a82cf6a6a7af70800000000000000
+      internalID: 9198504000052830509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1200
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ddd11ef733b3b70800000000000000
+      internalID: 8879747714621758752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5249ebd86261769b0800000000000000
+      internalID: -5087072899249040347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1200
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9146d2dd62305700800000000000000
+      internalID: 526976603672428954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1200
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc11e0045a2fa3320800000000000000
+      internalID: 2538608131534885324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1200
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafc99cb1c8755d60800000000000000
+      internalID: 7878335896642768814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1200
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf317ff57f2a3a300800000000000000
+      internalID: 262232386668270588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_7
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1200
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a3b9f1aac882de0800000000000000
+      internalID: -1357680625349608878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_8
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1200
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f9bd9726c8dec90800000000000000
+      internalID: -7138895479733248213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_9
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1200
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00771900ea7c725f0800000000000000
+      internalID: -781436460177721600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_10
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1200
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190aa05266e2272b0800000000000000
+      internalID: -5588353171370368879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea7959cfd5e2a650800000000000000
+      internalID: 6242804782807481065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1000
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b5f3f5a96c9f590800000000000000
+      internalID: -7639856926532084911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1000
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb58e3710e5c6040800000000000000
+      internalID: 4642188676244724675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1000
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046156bc406255370800000000000000
+      internalID: 8310590489416242752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1000
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025d52287913ef1e0800000000000000
+      internalID: -2162236244297919200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_16
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1000
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbc2e17b91b3a080800000000000000
+      internalID: -9177296334462202891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_17
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1000
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57e14708c472f220800000000000000
+      internalID: 2518203544117569370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_18
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1000
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5749af8829e5910800000000000000
+      internalID: 1828059615776241108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_19
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1000
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee43b0da7b8698c10800000000000000
+      internalID: 2056289842962838766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_20
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1000
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d1848db475b50b0800000000000000
+      internalID: -5738897316890796752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487e55616f5d877b0800000000000000
+      internalID: -5226192114650060924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 800
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72916741e78c36b0800000000000000
+      internalID: -5315224058569059715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_23
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 800
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc997d91860ab4b0800000000000000
+      internalID: -5424015647451800371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_24
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 800
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210a99edc71097c50800000000000000
+      internalID: 6663358759493541906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061a8a63dbf07dd30800000000000000
+      internalID: 4456047661646651744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_26
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 800
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ed3cfca9233e930800000000000000
+      internalID: 4171233320367283727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_27
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 800
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11d964bee75a8ab0800000000000000
+      internalID: -5005091353128218339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_28
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 800
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad214faba56c30a0800000000000000
+      internalID: -6900528740984345181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_29
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec16f880918b8c40800000000000000
+      internalID: 5515644626418408681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_30
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 800
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd520b40dec00da0800000000000000
+      internalID: -5980552911141052942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceaa1c465438683e0800000000000000
+      internalID: -2051808246154286356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_32
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 600
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe1cc41a040a0ff0800000000000000
+      internalID: -69238402925715719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_33
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411b615232689c920800000000000000
+      internalID: 3011085311378108692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_34
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fefc185df911950800000000000000
+      internalID: 6418086683334406044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f41758dec402bf0800000000000000
+      internalID: -351196187905142999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_36
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 600
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260d14aef27ad7840800000000000000
+      internalID: 5223514967055126626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_37
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6410d700349415ba0800000000000000
+      internalID: -6102015467990482618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_38
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 600
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0733b111fabbd640800000000000000
+      internalID: 5105880147101431565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_39
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 600
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b0ea3006d05d7a0800000000000000
+      internalID: -6353156993306457215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_40
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 600
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7cda742c6f88f70800000000000000
+      internalID: 9189866353936156624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6a801128752c250800000000000000
+      internalID: 5963425072735102688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_42
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 400
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4d2752f5a146190800000000000000
+      internalID: -7970216444586437411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_43
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6dbbd87ee3f6520800000000000000
+      internalID: 2697443866054481607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_44
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd254c8fcc730d90800000000000000
+      internalID: -7132720153971315206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0f50f19dbf1f0b0800000000000000
+      internalID: -5696495143700008735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_46
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 400
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742b81bb5f2fa7710800000000000000
+      internalID: 1691931747250909767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_47
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d00c915960133210800000000000000
+      internalID: 1311409961021735129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_48
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 400
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d04a712447a0b30800000000000000
+      internalID: 4254340625218145599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_49
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5b0ca97d2d6b540800000000000000
+      internalID: 5023434257834489284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_50
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 400
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c84b011b3b46ddc0800000000000000
+      internalID: -3614618933857138493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b33937d6f0c7fc60800000000000000
+      internalID: 7851956641749087157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e438951923224e0800000000000000
+      internalID: -2007986884000395630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f18df8c497a5e20800000000000000
+      internalID: 3340115443386425242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888c5969a5eed3a80800000000000000
+      internalID: -8485364050055280504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_55
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 200
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481c8ceb7eaab4970800000000000000
+      internalID: 8740267414157574532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_56
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b815dfd1d5f83d90800000000000000
+      internalID: -7117668929306814284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_57
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 200
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d4082ca506141e0800000000000000
+      internalID: -2215383598763061857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_58
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 200
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac17bebc21a64210800000000000000
+      internalID: 1316917154602753186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_59
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 200
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3798205175a2eee0800000000000000
+      internalID: -1233241441851369670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f93879e07699380800000000000000
+      internalID: -8964020270935072938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735ba8be5c8adc4c0800000000000000
+      internalID: -4265567704036231881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82731e3c5e728fa50800000000000000
+      internalID: 6555033125425067816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship2_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39304d256bda6eab0800000000000000
+      internalID: -4979101339426225261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
